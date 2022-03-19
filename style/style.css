@@ -1,0 +1,14 @@
+body {
+    background: #dbdbdb;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pwd {
+    background: #111625;
+    border-radius: 12px;
+    box-shadow: rgba(100, 100, 111, .5) 0px 7px 29px 0px;
+    position: relative;
+}
