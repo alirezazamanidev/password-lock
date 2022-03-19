@@ -23,3 +23,16 @@ body {
 .pwd input:focus {
     outline: none;
 }
+
+.pwd i {
+    font-size: 1.4em;
+    padding: 1em;
+    color: #dbdbdb;
+}
+
+.pwd .bi-eye,
+.pwd .bi-eye-slash {
+    cursor: pointer;
+    color: #5358b9;
+    width: 1.2em;
+}
